@@ -10,7 +10,7 @@
   "files": [ "dist", "README.md" ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorolave/npm-test.git"
+    "url": "git+https://github.com/olavevictor/npm-test"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
